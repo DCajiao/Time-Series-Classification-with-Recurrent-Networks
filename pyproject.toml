@@ -1,0 +1,7 @@
+[project]
+name = "time-series-classification-with-recurrent-networks"
+version = "0.1.0"
+description = "train and compare different recurrent neural network models."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
